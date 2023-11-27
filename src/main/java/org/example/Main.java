@@ -15,7 +15,7 @@ public class Main {
         int odpowiedz;
         int odpowiedz2;
         String n_1;
-//
+
         odpowiedz = scanner.nextInt();
 
         switch(odpowiedz) {
